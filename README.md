@@ -12,3 +12,6 @@ Os principais objetivos foram:
 * 🎯 Utilização de componentes reutilizáveis para facilitar manutenção e escalabilidade.
 
 Este projeto demonstra conhecimentos em composição de interfaces no Flutter, organização de widgets e desenvolvimento de aplicações com código limpo e de fácil manutenção.
+
+
+apesar do README esse projeto não teve uso de Inteligencia Artificial
